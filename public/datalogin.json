@@ -1,0 +1,27 @@
+{   "retCode": 0,
+  "retMsg": "",
+  "data": [
+    {
+      "patientID": "000000001",
+      "patientName": "John Doe",
+      "patientPhotoID":"",
+      "patientDOB":"05/20/1959",
+      "patientGender":"F",
+      "recID": "29f401948b244efd8efade3409372a49",
+      "uploadTime": "11/29/15 14:22",
+      "testDuration": 28800,
+      "burdenDuration": 9360
+    },
+    {
+      "patientID": "000000004",
+      "patientName": "Jane White",
+      "patientPhotoID":"",
+      "patientDOB":"05/20/1953",
+      "patientGender":"F",
+      "recID": "e1f6e948b5f040d5a29cbcd3af3ada9c",
+      "uploadTime": "11/27/15 14:22",
+      "testDuration": 28800,
+      "burdenDuration": 3600
+    }
+  ]
+}
